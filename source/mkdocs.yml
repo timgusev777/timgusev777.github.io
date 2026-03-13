@@ -1,0 +1,23 @@
+site_name: Сайт-портфолио
+site_description: Лабораторные работы
+
+
+# Тема оформления
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light blue
+
+# Меню сайта (навигация)
+nav:
+  - Главная: index.md
+  - Об авторе: about.md
+  - Лабораторные работы:
+      - Лабораторная 1: labs/lab1.md
+      - Лабораторная 2: labs/lab2.md
+      - Лабораторная 3: labs/lab3.md
+
+# Настройки для красивого отображения
+markdown_extensions:
+  - fenced_code

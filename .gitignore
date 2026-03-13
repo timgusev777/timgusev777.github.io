@@ -1,0 +1,14 @@
+# Виртуальное окружение
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
+
+# Редакторы
+.idea/
+.vscode/
+*.swp
