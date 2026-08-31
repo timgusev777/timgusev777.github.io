@@ -1,1 +1,1 @@
-https://colab.research.google.com/drive/1_C1vOGvqoQ_fVBIyH8CeGorelE0s_2ZQ?usp=sharing
+ссылка на 4 лабораторную: https://colab.research.google.com/drive/1_C1vOGvqoQ_fVBIyH8CeGorelE0s_2ZQ?usp=sharing
