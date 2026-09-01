@@ -18,6 +18,9 @@ nav:
       - Лабораторная 2: labs/lab2.md
       - Лабораторная 3: labs/lab3.md
       - Лабораторная 4: labs/lab4.md
+      - Лабораторная 5: labs/lab5.md
+      - Лабораторная 6: labs/lab6.md
+      - Лабораторная 7: labs/lab7.md
 
 # Настройки для красивого отображения
 markdown_extensions:

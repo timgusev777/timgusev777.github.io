@@ -1,0 +1,1 @@
+ссылка на 5 лабораторную: https://colab.research.google.com/drive/1p7manrJoNYb5KZgbKCu4NothbiTva1NW?usp=sharing
